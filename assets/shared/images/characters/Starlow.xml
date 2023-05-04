@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Starlow.png">
+	<!-- Created with Adobe Animate version 23.0.0.407 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Starlow DOWN Dance instance 10000" x="614" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow DOWN Dance instance 10001" x="614" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow DOWN Dance instance 10002" x="0" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10003" x="0" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10004" x="277" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10005" x="277" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10006" x="554" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10007" x="554" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10008" x="831" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10009" x="831" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10010" x="831" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10011" x="831" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10012" x="831" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10013" x="831" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow DOWN Dance instance 10014" x="831" y="0" width="277" height="255"/>
+	<SubTexture name="Starlow Idle Dance instance 10000" x="1108" y="0" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10001" x="1108" y="0" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10002" x="1454" y="0" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10003" x="1454" y="0" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10004" x="0" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10005" x="0" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10006" x="346" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10007" x="346" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10008" x="692" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10009" x="692" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10010" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10011" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10012" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10013" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10014" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10015" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10016" x="1384" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10017" x="1384" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10018" x="0" y="562" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10019" x="0" y="562" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10020" x="346" y="562" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10021" x="346" y="562" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10022" x="692" y="562" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10023" x="692" y="562" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10024" x="1038" y="562" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10025" x="1038" y="562" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10026" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10027" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10028" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10029" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10030" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Idle Dance instance 10031" x="1038" y="281" width="346" height="281"/>
+	<SubTexture name="Starlow Left Dance instance 10000" x="278" y="1105" width="307" height="235" frameX="0" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow Left Dance instance 10001" x="278" y="1105" width="307" height="235" frameX="0" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow Left Dance instance 10002" x="1384" y="562" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10003" x="1384" y="562" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10004" x="1691" y="562" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10005" x="1691" y="562" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10006" x="0" y="843" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10007" x="0" y="843" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10008" x="307" y="843" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10009" x="307" y="843" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10010" x="307" y="843" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10011" x="307" y="843" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10012" x="307" y="843" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10013" x="307" y="843" width="307" height="235"/>
+	<SubTexture name="Starlow Left Dance instance 10014" x="307" y="843" width="307" height="235"/>
+	<SubTexture name="Starlow MISS Down instance 10000" x="614" y="843" width="277" height="255" frameX="-4" frameY="-8" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10001" x="891" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10002" x="891" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10003" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10004" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10005" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10006" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10007" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10008" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10009" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10010" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10011" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10012" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10013" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10014" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10015" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10016" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10017" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10018" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10019" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10020" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10021" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10022" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10023" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Down instance 10024" x="1168" y="843" width="277" height="255" frameX="0" frameY="0" frameWidth="281" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10000" x="1445" y="843" width="278" height="262" frameX="0" frameY="0" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10001" x="1723" y="843" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10002" x="1723" y="843" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10003" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10004" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10005" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10006" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10007" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10008" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10009" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10010" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10011" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10012" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10013" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10014" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10015" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10016" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10017" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10018" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10019" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10020" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10021" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10022" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10023" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISS Up instance 10024" x="0" y="1105" width="278" height="252" frameX="0" frameY="-11" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow MISSED Left instance 10000" x="278" y="1105" width="307" height="235" frameX="0" frameY="-4" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10001" x="585" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10002" x="585" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10003" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10004" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10005" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10006" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10007" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10008" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10009" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10010" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10011" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10012" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10013" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10014" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10015" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10016" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10017" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10018" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10019" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10020" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10021" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10022" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10023" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Left instance 10024" x="892" y="1105" width="307" height="235" frameX="-7" frameY="0" frameWidth="314" frameHeight="239"/>
+	<SubTexture name="Starlow MISSED Right instance 10000" x="1199" y="1105" width="342" height="300" frameX="-4" frameY="0" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10001" x="1541" y="1105" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10002" x="1541" y="1105" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10003" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10004" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10005" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10006" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10007" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10008" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10009" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10010" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10011" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10012" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10013" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10014" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10015" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10016" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10017" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10018" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10019" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10020" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10021" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10022" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10023" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow MISSED Right instance 10024" x="0" y="1405" width="342" height="248" frameX="0" frameY="-3" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10000" x="1199" y="1105" width="342" height="300" frameX="0" frameY="0" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10001" x="1199" y="1105" width="342" height="300" frameX="0" frameY="0" frameWidth="346" frameHeight="300"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10002" x="342" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10003" x="342" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10004" x="684" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10005" x="684" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10006" x="1026" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10007" x="1026" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10008" x="1368" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10009" x="1368" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10010" x="1368" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10011" x="1368" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10012" x="1368" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10013" x="1368" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow RIGHT Dance instance 10014" x="1368" y="1405" width="342" height="248"/>
+	<SubTexture name="Starlow UP DANCE instance 10000" x="1445" y="843" width="278" height="262" frameX="0" frameY="0" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow UP DANCE instance 10001" x="1445" y="843" width="278" height="262" frameX="0" frameY="0" frameWidth="278" frameHeight="263"/>
+	<SubTexture name="Starlow UP DANCE instance 10002" x="1710" y="1405" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10003" x="1710" y="1405" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10004" x="0" y="1657" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10005" x="0" y="1657" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10006" x="278" y="1657" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10007" x="278" y="1657" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10008" x="556" y="1657" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10009" x="556" y="1657" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10010" x="556" y="1657" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10011" x="556" y="1657" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10012" x="556" y="1657" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10013" x="556" y="1657" width="278" height="252"/>
+	<SubTexture name="Starlow UP DANCE instance 10014" x="556" y="1657" width="278" height="252"/>
+</TextureAtlas>
